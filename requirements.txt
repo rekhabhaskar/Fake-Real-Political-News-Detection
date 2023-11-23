@@ -1,7 +1,3 @@
 pandas
 sklearn
 streamlit 
-
-
-
-https://github.com/luisosorio3214/Fake-News-Prediction-System/blob/main/Fake%20News%20Prediction.ipynb
